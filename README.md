@@ -81,7 +81,5 @@
    1. **Mean Timestamp**: 1970-01-01 00:42:37
 
 **6. Additional Information**
-
-- **Code Repository:** [Link to your GitHub repository with code]
 - **Data Files:** [Link to data files, if applicable]
-- **Contact:** [Your contact information or LinkedIn profile]
+- **Contact:** [[LinkedIn](https://www.linkedin.com/in/emmanuel-adetoro/)]
